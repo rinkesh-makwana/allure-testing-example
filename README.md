@@ -61,3 +61,5 @@ TestNG will execute only one test of the two tests present in this example proje
 * [Issue Tracking](https://github.com/allure-framework/allure2/issues?labels=&milestone=&page=1&state=open)
 * Gitter chat room: [https://gitter.im/allure-framework/allure-core](https://gitter.im/allure-framework/allure-core)
 * StackOverflow tag: [Allure](http://stackoverflow.com/questions/tagged/allure)
+
+
